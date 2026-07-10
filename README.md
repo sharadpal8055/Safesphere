@@ -7,7 +7,7 @@ The system applies machine learning techniques to identify risk patterns and pro
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 Natural disasters cause severe damage due to delayed prediction and lack of early insights.
 
